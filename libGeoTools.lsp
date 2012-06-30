@@ -56,7 +56,7 @@
 
 (context MAIN)
 
-(set 'api-key "YOURAPIKEY")
+(set 'api-key "YOUR-GOOGLE-MAPS-APIKEY")
 
 ;; Apple HQ
 (set 'lat1 37.3308525)
